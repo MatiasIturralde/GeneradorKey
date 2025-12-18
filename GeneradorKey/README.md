@@ -50,4 +50,5 @@ Key generada: aZ3F9kP2Lm
 
 * Java 17 o superior (por el uso de `nextInt(0, 62)`)
 
+
 ---
